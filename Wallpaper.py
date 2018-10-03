@@ -27,6 +27,7 @@ urllib.request.urlretrieve(link,'new.jpg')
 print('Image downloaded')
 
 #Image path
+#Please set this path as the current working directory or in the directory where this script is placed and executed
 path='E:\\Projects\\Wallpaper\\new.jpg'
 
 #Set the wallpaper
